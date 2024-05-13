@@ -1,0 +1,6 @@
+export const APP_WRITE_ID="663941dc0025a7832f66"
+export const DB_ID="crm-base"
+export const COLLECTIONS_DEALS="deals"
+export const COLLECTIONS_CUSTOMERS="customers"
+export const COLLECTIONS_COMMENTS="comments"
+export const STORAGE_ID="storage"
